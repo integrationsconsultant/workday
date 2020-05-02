@@ -3,13 +3,13 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: Workday Integrations Consultant
+  title: Integrations Consultant
   section_id: hero
-  content: Independent Workday Integrations Pro, offering help when you need it, no
-    extra overhead when you don’t. For all your workday new project initiatives, Design,
-    build and support using Simple Integrations, Core Connector, CCB's CCTP,GCP connectors,
-    XSLT & Studio
-  image: "/images/header-hero.jpg"
+  content: Consulting as a Service for all your Workday Integrations needs, Independent
+    Workday Pro offering Integration Strategy / Advisory / Design / Build & Support
+    services using Simple Integrations, Core Connectors, Cloud Connectors, XSLT and
+    Workday Studio.
+  image: "/images/avatar.png"
   actions:
   - label: Learn More
     url: "/features"
