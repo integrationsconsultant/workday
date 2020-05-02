@@ -9,7 +9,7 @@ sections:
     Workday Pro offering Integration Strategy / Advisory / Design / Build & Support
     services using Simple Integrations, Core Connectors, Cloud Connectors, XSLT and
     Workday Studio.
-  image: "/images/avatar.png"
+  image: "/images/toppng.com-workday-logo-workday-600x600.png"
   actions:
   - label: Learn More
     url: "/features"
