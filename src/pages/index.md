@@ -5,16 +5,11 @@ sections:
   template: section_hero
   title: Integrations Consultant
   section_id: hero
-  content: Consulting as a Service for all your Workday Integrations needs, Independent
-    Workday Pro offering Integration Strategy / Advisory / Design / Build & Support
-    services using Simple Integrations, Core Connectors, Cloud Connectors, XSLT and
-    Workday Studio.
+  content: Independent Workday Integrations Pro offering Integration Strategy / Advisory
+    / Design / Build & Support for all your Workday Integrations needs, using Simple
+    Integrations, Core Connectors, Cloud Connectors, XSLT and Workday Studio.
   image: "/images/toppng.com-workday-logo-workday-600x600.png"
-  actions:
-  - label: Learn More
-    url: "/features"
-    primary: false
-    new_window: false
+  actions: []
 - type: section_features
   template: section_features
   title: Features
