@@ -30,8 +30,8 @@
     ]
   },
   "footer": {
-    "logo_img": "images/logo_alt.png",
-    "tagline": "SaaS theme by Stackbit",
+    "logo_img": "/images/toppng.com-workday-logo-workday-600x600.png",
+    "tagline": "CaaS by Integrations Consultant",
     "has_nav": true,
     "nav_title": "Company",
     "nav_links": [
@@ -56,25 +56,15 @@
     "social_title": "Community",
     "social_links": [
       {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "new_window": true
-      },
-      {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/",
         "new_window": true
       }
     ],
-    "has_subscribe": true,
+    "has_subscribe": false,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Integrations Consultant. All rights reserved.",
     "links": [
       {
         "label": "Made with Stackbit",
