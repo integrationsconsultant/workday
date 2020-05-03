@@ -18,10 +18,12 @@ sections:
     no extra over head when you don't.
   background: gray
   features:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+  - title: Integrations Advisory Service
+    content: Need an expert to advise in choosing an Integration Strategy for your
+      business needs, we are here to review the business requirement and make a recommendation
+      design, build, test and document or hand off design documents and partner with
+      off-shore or internal team members.
+    image: "/images/header-hero.jpg"
     actions:
     - label: Learn More
       url: "/features"
