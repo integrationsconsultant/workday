@@ -41,8 +41,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/Azimuth-Improvements.md
-- src/pages/posts/Customer-Loyalty.md
 - src/pages/posts/Sales-as-Service.md
 - src/pages/posts/Set-Big-Goals.md
 - src/pages/posts/User-Journey-Mapping.md
