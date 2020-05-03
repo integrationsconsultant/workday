@@ -8,7 +8,8 @@
     "nav_links": [
       {
         "label": "Home",
-        "url": "/"
+        "url": "/",
+        "primary": true
       },
       {
         "label": "About Us",
@@ -17,15 +18,17 @@
       },
       {
         "label": "Services",
-        "url": "/features"
+        "url": "/features",
+        "primary": true
       },
       {
         "label": "Pricing",
-        "url": "/pricing"
+        "url": "/pricing",
+        "primary": true
       },
       {
-        "label": "Sign Up",
-        "url": "/signup",
+        "label": "Contact",
+        "url": "/contact",
         "primary": true
       }
     ]
