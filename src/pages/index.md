@@ -12,10 +12,10 @@ sections:
   actions: []
 - type: section_features
   template: section_features
-  title: Features
+  title: Services
   section_id: features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: Workday Integration consulting as a service help when you need it and
+    no extra over head when you don't.
   background: gray
   features:
   - title: The Best Feature of Your Services
