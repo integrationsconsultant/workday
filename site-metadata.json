@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Integrations Consultant",
-    "logo_img": "/images/IC.png",
+    "logo_img": "",
     "has_nav": true,
     "nav_links": [
       {
@@ -22,8 +22,8 @@
         "primary": true
       },
       {
-        "label": "Pricing",
-        "url": "/pricing",
+        "label": "Case Study",
+        "url": "/blog",
         "primary": true
       },
       {
