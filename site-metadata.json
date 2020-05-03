@@ -43,10 +43,6 @@
         "url": "/blog"
       },
       {
-        "label": "Sign Up",
-        "url": "signup"
-      },
-      {
         "label": "Contact",
         "url": "/contact"
       }
@@ -56,8 +52,9 @@
     "social_links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "new_window": true
+        "url": "www.linkedin.com/in/workdayintegrationsconsultant",
+        "new_window": true,
+        "primary": true
       }
     ],
     "has_subscribe": true,
