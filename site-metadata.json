@@ -11,16 +11,17 @@
         "url": "/"
       },
       {
-        "label": "Features",
+        "label": "About Us",
+        "url": "/about",
+        "primary": true
+      },
+      {
+        "label": "Services",
         "url": "/features"
       },
       {
         "label": "Pricing",
         "url": "/pricing"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide"
       },
       {
         "label": "Sign Up",
@@ -61,7 +62,7 @@
         "new_window": true
       }
     ],
-    "has_subscribe": false,
+    "has_subscribe": true,
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "content": "&copy; Integrations Consultant. All rights reserved.",
