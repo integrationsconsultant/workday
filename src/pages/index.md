@@ -18,17 +18,6 @@ sections:
     no extra over head when you don't.
   background: gray
   features:
-  - title: Integrations Advisory Service
-    content: Need an expert to advise in choosing an Integration Strategy for your
-      business needs, we are here to review the business requirement and make a recommendation
-      design, build, test and document or hand off design documents and partner with
-      off-shore or internal team members.
-    image: "/images/header-hero.jpg"
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
   - title: Design & Build Services
     content: Help clients with End to End Integration workstream with Discovery, Design,
       Build, Unit test, Migration, and Support of Integrations using Workday integration
@@ -37,15 +26,24 @@ sections:
       Studio.
     image: "/images/Workday Integration Agile.jpg"
     actions: []
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
+  - title: Integrations Advisory Service
+    content: Need an expert to advise in choosing an Integration Strategy for your
+      business needs, we are here to review the business requirement and make a recommendation
+      design, build, test and document or hand off design documents and partner with
+      off-shore or internal team members.
+    image: "/images/integration-cloud-platform-sc.png"
+    actions: []
+  - title: Application Management and Support Services
+    content: |-
+      Workday Application Management and Support services across the entire gamut of Workday’s application stream such as:
+
+      * Integration Monitoring and maintaining scheduler.
+      * Migration and Security Support.
+      * Phase II implementations and rollouts.
+      * Version update and support.
+      * L1 to L2 support.
+    image: "/images/process-simplification-integration.png"
+    actions: []
 - type: section_reviews
   template: section_reviews
   title: Testimonials
