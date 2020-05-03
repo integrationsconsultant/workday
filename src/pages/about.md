@@ -1,12 +1,10 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Ex-Certified Independent Workday Integrations Consultant
 image: images/about.jpg
 template: page
+
 ---
+As the demand for Workday Application grows, so does the complexity and breadth of Integrations to get data in and out of Workday. It can become really expensive for all the integrations you want if your organization picks an implementation partner. It is here we can help you cut down the cost and bring the expertise you need and provide end to end Integration workstream support from Discovery with vendors to Design, Build, Test and Support all your workday integration needs. Typically in any Workday tenant, 60% of the integrations are simple integrations EIB's built with RaaS, custom report transformations, connectors with document transformation, or Workday Studio.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+We offer our services at a very competitive cost either a fixed cost project or flex hourly rate no more than $50 to $70/hr depending upon the complexity of the integration. Not sure about how we can help, please check out our case study section...
