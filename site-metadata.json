@@ -17,11 +17,6 @@
         "primary": true
       },
       {
-        "label": "Services",
-        "url": "/features",
-        "primary": true
-      },
-      {
         "label": "Case Study",
         "url": "/blog",
         "primary": true
