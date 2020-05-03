@@ -67,9 +67,9 @@ sections:
       et malesuada fames ac ante ipsum primis in faucibus.
 - type: section_cta
   template: section_cta
-  title: Contact us and see how we can help?
+  title: Hello...
   section_id: call-to-action
-  subtitle: With your workday integrations needs....
+  subtitle: What can we help you with?
   actions:
   - label: Contact
     url: "/contact"
@@ -80,7 +80,7 @@ sections:
   title: Latest Posts
   section_id: recent-posts
   background: gray
-  subtitle: ''
+  subtitle: See use case scenarios on how we can help your organization
 template: landing
 
 ---
