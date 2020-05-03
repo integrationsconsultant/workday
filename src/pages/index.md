@@ -14,8 +14,8 @@ sections:
   template: section_features
   title: Services
   section_id: features
-  subtitle: Workday Integration consulting as a service help when you need it and
-    no extra over head when you don't.
+  subtitle: Workday Integration consulting as a service for fixed cost and help when
+    you need it and no extra over head when you don't.
   background: gray
   features:
   - title: Design & Build Services
@@ -33,7 +33,7 @@ sections:
       off-shore or internal team members.
     image: "/images/integration-cloud-platform-sc.png"
     actions: []
-  - title: Application Management and Support Services
+  - title: Application Management and Support
     content: |-
       Workday Application Management and Support services across the entire gamut of Workday’s application stream such as:
 
@@ -67,12 +67,12 @@ sections:
       et malesuada fames ac ante ipsum primis in faucibus.
 - type: section_cta
   template: section_cta
-  title: This Is Call To Action Block!
+  title: Contact us and see how we can help?
   section_id: call-to-action
-  subtitle: This is an optional description for the call to action block.
+  subtitle: With your workday integrations needs....
   actions:
-  - label: Get Started
-    url: "/signup"
+  - label: Contact
+    url: "/contact"
     primary: false
     new_window: false
 - type: section_posts
