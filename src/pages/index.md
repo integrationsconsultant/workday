@@ -29,15 +29,14 @@ sections:
       url: "/features"
       primary: false
       new_window: false
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
-    actions:
-    - label: Learn More
-      url: "/features"
-      primary: false
-      new_window: false
+  - title: Design & Build Services
+    content: Help clients with End to End Integration workstream with Discovery, Design,
+      Build, Unit test, Migration, and Support of Integrations using Workday integration
+      platform as a service (IPaaS) and frameworks such as EIB's, Connectors, Cloud
+      Connectors, Document Transformations and Custom Integrations using EIB's and
+      Studio.
+    image: "/images/Workday Integration Agile.jpg"
+    actions: []
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
