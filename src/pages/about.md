@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: Ex-Certified Independent Workday Integrations Consultant
-image: images/about.jpg
+image: ''
 template: page
 
 ---
