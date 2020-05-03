@@ -37,7 +37,7 @@ fields:
     template: review_item
   config:
     labelField: ''
-  hidden: true
+  hidden: false
 - type: text
   name: type
   label: Reference Type Name
