@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Workday '
 sections:
 - type: section_hero
   template: section_hero
