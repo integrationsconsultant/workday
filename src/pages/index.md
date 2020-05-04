@@ -9,7 +9,11 @@ sections:
     / Design / Build & Support for all your Workday Integrations needs, using Simple
     Integrations, Core Connectors, Cloud Connectors, XSLT and Workday Studio.
   image: "/images/rsz_workday_logo-600x600.png"
-  actions: []
+  actions:
+  - label: About US
+    url: "/about"
+    primary: false
+    new_window: false
 - type: section_features
   template: section_features
   title: Services
