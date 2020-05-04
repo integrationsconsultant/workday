@@ -8,7 +8,7 @@ sections:
   content: Whether you have a question about our services, advice, pricing, wanna
     talk or anything else please drop us a line.
   background: gray
-  subtitle: 'We''d love to hear from you, call us at 216-512-1487 or email @ integrationsconsultant@outlook.com '
+  subtitle: 'We''d love to hear from you, call us at 216-512-1487 or email @ info@integrationsconsultant.com '
 template: landing
 
 ---
