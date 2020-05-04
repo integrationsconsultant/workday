@@ -46,9 +46,9 @@ sections:
     actions: []
 - type: section_cta
   template: section_cta
-  title: We'd love to hear from you..
+  title: Drop us a line..
   section_id: call-to-action
-  subtitle: 'email integrationsconsultant@outlook.com or call @ 216-512-1487 '
+  subtitle: 'email info@integrationsconsultant.com or call @ 216-512-1487 '
   actions:
   - label: Contact
     url: "/contact"
