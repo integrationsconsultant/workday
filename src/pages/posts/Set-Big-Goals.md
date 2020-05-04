@@ -1,7 +1,8 @@
 ---
 title: Case Study 1
 date: 2020-05-05T05:00:00Z
-excerpt: Advisory Work for research client saving money on their SOW
+excerpt: Advisory Work for research client saving time & money on their Implementation
+  SOW
 image: images/12.jpg
 thumb_image: images/12_thumb.jpg
 template: post
