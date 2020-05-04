@@ -8,11 +8,11 @@ sections:
   content: Independent Workday Integrations Pro offering Integration Strategy / Advisory
     / Design / Build & Support for all your Workday Integrations needs, using Simple
     Integrations, Core Connectors, Cloud Connectors, XSLT and Workday Studio.
-  image: "/images/rsz_workday_logo-600x600.png"
+  image: "/images/toppng.com-workday-logo-workday-600x600.png"
   actions:
   - label: About US
     url: "/about"
-    primary: false
+    primary: true
     new_window: false
 - type: section_features
   template: section_features
