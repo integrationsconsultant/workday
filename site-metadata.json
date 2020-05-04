@@ -51,6 +51,11 @@
     "social_title": "Community",
     "social_links": [
       {
+        "new_window": true,
+        "url": "www.linkedin.com/in/workdayintegrationsconsultant",
+        "label": "Linkedin"
+      },
+      {
         "label": "LinkedIn",
         "url": "www.linkedin.com/in/workdayintegrationsconsultant",
         "new_window": true,
