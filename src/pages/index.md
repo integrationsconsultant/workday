@@ -50,9 +50,10 @@ sections:
     actions: []
 - type: section_cta
   template: section_cta
-  title: Drop us a line..
+  title: We’re always happy to talk –
   section_id: call-to-action
-  subtitle: 'email info@integrationsconsultant.com or call @ 216-512-1487 '
+  subtitle: 'whether you have a project in mind, or just want to say hi! email info@integrationsconsultant.com
+    or call @ 216-512-1487 '
   actions:
   - label: Contact
     url: "/contact"
